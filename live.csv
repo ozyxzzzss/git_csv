@@ -25,3 +25,4 @@ id,symbol,trans_date,quantity,trans_price, totalDividend, sell_date,sell_quant, 
 161,O39.SI,20160825,1000,8.69,0,,,,LIVE
 162,U11.SI,20160826,600,18.05,0,,,,LIVE
 163,U11.SI,20160829,500,17.97,0,,,,LIVE
+164,BN4.SI,20160830,1000,5.23,0,,,,LIVE
