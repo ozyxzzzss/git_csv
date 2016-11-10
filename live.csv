@@ -4,3 +4,4 @@ id,symbol,trans_date,quantity,trans_price, totalDividend, sell_date,sell_quant, 
 161,U96.SI,20161011,3000,2.60,0,,,,LIVE
 163,S63.SI,20161011,3000,3.22,0,,,,LIVE
 164,S63.SI,20161012,2000,3.20,0,,,,LIVE
+165,Z74.SI,20161110,2000,3.86,0,,,,LIVE
