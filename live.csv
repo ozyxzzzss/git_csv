@@ -8,3 +8,4 @@ id,symbol,trans_date,quantity,trans_price, totalDividend, sell_date,sell_quant, 
 201,BN4.SI,20161215,1000,6.10,0,,,,LIVE
 202,Z74.SI,20161219,4000,3.68,0,,,,LIVE
 203,Z74.SI,20161220,2000,3.65,0,,,,LIVE
+204,Z74.SI,20161227,2000,3.64,0,,,,LIVE
