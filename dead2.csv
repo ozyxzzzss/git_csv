@@ -1,2 +1,4 @@
 id,symbol,trans_date,quantity,trans_price, totalDividend, sell_date,sell_quant, sell_price, status
 201,BN4.SI,20161222,2000,5.96,0,20161230,2000,5.88,DEAD
+167,Z74.SI,20161122,4000,3.615,272,20170106,4000,3.75,DEAD
+
