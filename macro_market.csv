@@ -3,6 +3,8 @@ symbol
 ^GSPC
 ^IXIC
 ^HSI
+CL=F
+XAUUSD=X
 O39.SI
 D05.SI
 U11.SI
