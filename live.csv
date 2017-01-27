@@ -1,5 +1,3 @@
 id,symbol,trans_date,quantity,trans_price, totalDividend, sell_date,sell_quant, sell_price, status
-208,BN4.SI,20170123,2000,6.18,0,,,,LIVE
-209,CC3.SI,20170123,2000,3.08,0,,,,LIVE
 220,N21.SI,20170125,60000,0.175,0,,,,LIVE
 221,N21.SI,20170125,30000,0.173,0,,,,LIVE
