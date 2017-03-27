@@ -1,4 +1,5 @@
 id,symbol,trans_date,quantity,trans_price, totalDividend, sell_date,sell_quant, sell_price, status
-1,C6L.SI,20170316,1000,9.93,0,,,LIVE
-2,S58.SI,20170316,2000,4.88,0,,,LIVE
+1,C6L.SI,20170316,1000,9.93,0,,,,LIVE
+2,S58.SI,20170316,2000,4.88,0,,,,LIVE
+
 
