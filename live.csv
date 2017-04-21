@@ -2,5 +2,6 @@ id,symbol,trans_date,quantity,trans_price, totalDividend, sell_date,sell_quant, 
 2,S58.SI,20170316,2000,4.88,0,,,,LIVE
 3,Z74.SI,20170407,5000,3.89,0,,,,LIVE
 4,Z74.SI,20170413,5000,3.78,0,,,,LIVE
+5,Z74.SI,20170416,3000,3.74,0,,,,LIVE
 
 
